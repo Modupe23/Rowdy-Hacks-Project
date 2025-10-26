@@ -16,7 +16,7 @@ const unsigned long BREAK_DURATION = 5 * 1000 *60; // 5 Seconds
 
 // Posture Settings (in Centimeters)
 const int POSTURE_MIN_CM = 30; // Too Close!
-const int POSTURE_MAX_CM = 50; // Too Far!
+const int POSTURE_MAX_CM = 55; // Too Far!
 
 // --- GLOBAL VARS ---
 
